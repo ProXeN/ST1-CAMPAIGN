@@ -1,0 +1,124 @@
+[b]OPERACIÓN MN313 - "SPEARHEAD"[/b]
+
+Localización: Tanoa
+
+1.	TERRENO Y CLIMA
+
+A.	TERRENO
+1) 	100 Km2, gran parte zona selvática.
+2) 	Semi-montañoso. MSL de 0.1 m a 442.15 m.
+3) 	Un MSR de Norte a Sur.
+4) 	Las zonas selváticas proporcionan buena cobertura.
+5) 	Las ciudades y zonas industriales más grandes se concentran a lo largo de la línea de costa.
+6) 	Pequeñas aldeas en el interior, a menudo ocultas en valles, claros o en la propia selva.
+7) 	Efectos en enemigos: Uso de la selva para cobertura, movimiento encubierto y bases operativas.
+8) 	Efectos en aliados: Valles y jungla ofrecen cobertura al viajar por MSRs.
+9) 	Claves del terreno: Selvático, vegetación abundante, alta humedad.
+
+B. 	CLIMA
+1) 	Temperatura máxima: 31C.
+2) 	Temperatura mínima: 23C, Punto de rocío: 21C.
+3) 	Viento: Suave 8-14km/h.
+
+2. 	SITUACIÓN
+
+OpFor: Syndikat (VICTOR)
+VICTOR ha tomado los centros urbanos LIMA y KILO de la isla Yanukka desplazando a la población civil.
+
+A. 	FUERZAS ENEMIGAS
+1) 	VICTOR tiene presencia moderada fuera de la zona azul.
+2) 	Caminos secundarios patrullados por infantería ligera.
+3) 	Fuerzas VICTOR: 2-4 escuadras en LIMA, +5 en KILO, aprox. 1000 guerrilleros distribuidos por todas las islas.
+4) 	MPCOA (Desarrollo Mas Probable de la Accion): Tierra Quemada por VICTOR para cubrir su retirada hacia el Norte.
+5) 	Dotación VICTOR: Armas ligeras, en su mayoría de origen Ruso.
+		Capacidad AT: RPG7.
+6) 	VICTOR CR: Vestuario civil + Chalecos ligeros.
+
+B. 	FUERZAS ALIADAS
+1) 	VJTF 1 BAT, 3 PLT, 2ª Escuadra. ANEXO A
+2) 	FUERZA DE RESPUESTA DE LA OTAN (NRF) en ROGAIN.
+
+C. 	FUERZAS NEUTRALES
+1) 	Ninguna.
+
+D. 	CIVILES
+1) 	La población se muestra favorable frente a las fuerzas de la OTAN.
+
+3. 	MISIÓN
+
+a)	Asegurar MSR Paris
+b)	Despejar LIMA y KILO de la presencia de VICTOR
+c)	Establecer CP en PAPA.
+
+4. 	EJECUCIÓN
+
+A.	INSTRUCCIONES
+
+1)	Orden de movimiento: In situ CM.
+2)	Rutas: In situ CM.
+3)	ROE: Verde. Mantener fuego excepto bajo ataque.
+
+
+
+5. 	SERVICIO y APOYO
+
+A. 	SUMINISTROS
+
+2) 	Uniformidad: ST1 Multicam Tropic.
+3) 	Armas y munición: HK416, M249.
+4) 	Vehículos:
+	a. Prowler x4
+  b. Prowler HMG x2
+
+B. 	SOPORTE
+	Ninguno.
+
+6. 	MANDO E INDICATIVOS
+
+A. 	MANDO
+1) 	Cadena de Mando: SQL, 1 FTL, 2 FTL
+
+B. 	INDICATIVOS
+1) 	Frecuencias e indicativos: ANEXO A
+
+NOTAS
+
+Situada en el sur del Pacífico, la provincia isleña de Tanoa es una entre varias que, en su conjunto, conforman las islas Horizon - una nación independiente con lazos históricos tanto con oriente como con occidente. Antaño fue una colonia del Imperio Japonés hasta su liberación por los Estados Unidos en 1944, un conflicto del que todavía pueden encontrarse evidencias por toda la isla, reliquias de otra época.
+
+En la actualidad Tanoa florece gracias a sus abundantes depósitos de metales poco comunes que exportan por todo el mundo, aunque estas explotaciones mineras a menudo se ven envueltas en polémica por su impacto social, económico y medioambiental. También se cree que Tanoa es un eje importante del tráfico ilícito de drogas y armas en el Pacífico, aunque hasta el momento oficialmente no se han levantado cargos.
+
+Tras el reciente Tsunami que golpeó las islas Horizon este año, Syndikat, una organización criminal, ha triplicado sus operaciones en la zona, especialmente en la División Norte, Tanoa. La ferocidad y los números de esta organización han puesto en jaque a las fuerzas de seguridad locales y se calcula que el número de civiles desplazados por el conflicto sobrepasa ya los cien millares. Esto ha empujado al gobierno de las islas Horizon a solicitar formalmente ayuda a la OTAN para que reestablezcan el orden y ofrezcan ayuda humanitaria a la población civil.
+
+En respuesta, y como ya se hizo en otras crisis humanitarias similares (Huracán Katrina 2005, Terremoto en Pakistán 2006), la OTAN ha decidido desplegar a sus Fuerzas de Respuesta (NRF) y a la VJTF (Fuerza Conjunta De Muy Alta Disponibilidad) como punta de lanza para establecer su presencia en la isla y empezar a hacer retroceder a Syndikat.
+
+La isla Yanukka es la última en la que Syndikat se ha establecido y donde su presencia es más dispersa. Es aquí donde se ha establecido la base avanzada Rogain desde la que operará la OTAN.
+
+LIMA y KILO han sido tomadas y saquedas por VICTOR. Las bajas civiles son numerosas. Tras la llegada de la VJTF a Rogain, VICTOR se prepara para retirarse hacia PAPA y cruzar el puente, llevándose consigo sus alijos de armas, así como otros elementos logísticos de valor.
+
+
+ANEXO A DE OPERACIÓN MN313
+
+NRF VJTF 1 BAT, 3 PLT 2ª Escuadra
+
+RAPTOR 0: 2 pax - Líder de Escuadra (SQL), Médico (SM)
+RAPTOR 1 / RAPTOR 2: 6 pax - Líder de Equipo (FTL), Fusilero AT (RAT), Fusilero Automático (AR), Fusilero (F), Asist. Fusilero Automático (AAR), Médico de Combate (CLS)
+
+FRECUENCIAS
+
+RAPTOR LR 31
+
+RAPTOR 0 32
+RAPTOR 1 33
+RAPTOR 2 36
+
+INDICATIVOS
+
+ACO: BROADWAY
+SYNDIKAT: VICTOR
+
+PISTA DE ATERRIZAJE DE BALA: ROGAIN
+LAILAI: LIMA
+KATKOULA: KILO
+PUENTE DE YANUKKA: PAPA
+
+PARIS: MSR Principal
